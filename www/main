@@ -1,0 +1,21 @@
+<div data-role="header">
+    <h1>Home</h1>
+    <a href="#" data-icon="gear" class="ui-btn-right">Options</a>
+</div>
+<div>
+    <ul data-role="listview" data-inset="true" data-count-theme="c">
+    <li><a href="#"><img src="http://3.bp.blogspot.com/-RyhgKkN0rJ8/T-NrbCepQDI/AAAAAAAAAvs/JFPWe5F5pLo/s1600/french_flag.jpeg" alt="France" class="ui-li-icon ui-corner-none">France<span class="ui-li-count">4</span></a></li>
+    <li><a href="#"><img src="http://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="Germany" class="ui-li-icon">Germany<span class="ui-li-count">4</span></a></li>
+    <li><a href="#"><img src="http://blogs.rep-am.com/worth_reading/files/2011/08/british-flag1.jpg" alt="Great Britain" class="ui-li-icon">Great Britain<span class="ui-li-count">0</span></a></li>
+    <li><a href="#"><img src="http://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland" class="ui-li-icon">Finland<span class="ui-li-count">12</span></a></li>
+    
+     <li><a href="#"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtCh4-jOjT9cqMam2tNDB9QZzswsabWs5uMQt9QYA4z20Cyjzqng" alt="Norway" class="ui-li-icon ui-corner-none">Norway<span class="ui-li-count">328</span></a></li>
+         <li><a href="#"><img src="http://t0.gstatic.com/images?q=tbn:ANd9GcSJN67bY8RhMLuPLGgSIPBIc-Zq_y-TOLg8NcdM_x2xuQlcX12G" alt="United States" class="ui-li-icon ui-corner-none">United States<span class="ui-li-count">62</span></a></li>
+</ul>
+</div>
+
+<div data-role="footer" class="ui-bar">
+    <a href="up" data-icon="plus" data-transition="flip" id="up">Add</a>
+    <a href="down" data-icon="arrow-u" data-transition="flow" id="down">Up</a>
+    <a href="add" data-icon="arrow-d" id="add" data-transition="slidefade">Down</a>
+</div>
